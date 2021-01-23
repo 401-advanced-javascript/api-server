@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "name": "cola",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "kkk",
+      "category": "jj",
+      "description": "j",
+      "price": 1.99,
+      "inStock": 0,
+      "id": 1
+    }
+  ]
+}
